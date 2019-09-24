@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:1:1-10:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/64372ae8c5f024413624e3b196258d1c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/9f06664030a189c96b28b7929004697d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-beta01.aar/3b94c04f45c2030825e91e38722a2ff9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/140b2b77279fa4d7a8385eb4b873e669/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/1e0dd4c965adce21b327b3478ab79d35/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-beta01.aar/e88f21e7b1986eac3934deab4d925154/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/55fdb225568ec77e8d5a6cab692d8770/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/35b62519b8f600664c6262ad31295bb2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/dd1be6eaca6c557f5d1989043b3be26e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/c3b1f065e95b8a9f1414a01ddc1b643f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/4577ad7fb8747e3a3fd2ee4ea98e3e58/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/b631cd0f00380bcbc57bb0855d06d854/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/8b1c84d0daeb3156fc5955a908364d8a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/a929eb657446802eb384a237e91e2997/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/aafc5b6d23acc9051731bbdb38013ff2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/854a11d7557490b40e09d988368544e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/e0fcc326f53fd51734d5bb74576c85f3/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/e8b47b7f336799ef8319e4a379b656e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/e67371f8844c0a9db13e2c5caa38c0fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/0a0b77ed5558b82d52ab843e30175e4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/a5e829615ad636ccc5b19f1296b70c67/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/9a335dc78c2f51b29c320abea219ad84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/5e7497ad6fd3384bf54c870494a1c05c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/589bf36fca90217460ab31a19c179207/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/7c16e408d464a18de6e9a03f6ef2efb1/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:2:11-38
+		INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+		ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:1:1-10:12
+		INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+		ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:1:1-10:12
+		INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:4:5-9:51
+MERGED from [androidx.core:core:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/aafc5b6d23acc9051731bbdb38013ff2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/aafc5b6d23acc9051731bbdb38013ff2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/e0fcc326f53fd51734d5bb74576c85f3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/e0fcc326f53fd51734d5bb74576c85f3/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/aafc5b6d23acc9051731bbdb38013ff2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:8:18-44
+	android:label
+		ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:5:18-50
+	android:roundIcon
+		ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:7:18-63
+	android:icon
+		ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:6:18-52
+	android:allowBackup
+		ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:4:18-44
+	android:theme
+		ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml:9:18-49
+uses-sdk
+INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/64372ae8c5f024413624e3b196258d1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/64372ae8c5f024413624e3b196258d1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/9f06664030a189c96b28b7929004697d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/9f06664030a189c96b28b7929004697d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-beta01.aar/3b94c04f45c2030825e91e38722a2ff9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-beta01.aar/3b94c04f45c2030825e91e38722a2ff9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/140b2b77279fa4d7a8385eb4b873e669/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/140b2b77279fa4d7a8385eb4b873e669/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/1e0dd4c965adce21b327b3478ab79d35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/1e0dd4c965adce21b327b3478ab79d35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-beta01.aar/e88f21e7b1986eac3934deab4d925154/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-beta01.aar/e88f21e7b1986eac3934deab4d925154/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/55fdb225568ec77e8d5a6cab692d8770/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/55fdb225568ec77e8d5a6cab692d8770/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/35b62519b8f600664c6262ad31295bb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/35b62519b8f600664c6262ad31295bb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/dd1be6eaca6c557f5d1989043b3be26e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/dd1be6eaca6c557f5d1989043b3be26e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/c3b1f065e95b8a9f1414a01ddc1b643f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/c3b1f065e95b8a9f1414a01ddc1b643f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/4577ad7fb8747e3a3fd2ee4ea98e3e58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/4577ad7fb8747e3a3fd2ee4ea98e3e58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/b631cd0f00380bcbc57bb0855d06d854/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/b631cd0f00380bcbc57bb0855d06d854/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/8b1c84d0daeb3156fc5955a908364d8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/8b1c84d0daeb3156fc5955a908364d8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/a929eb657446802eb384a237e91e2997/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/a929eb657446802eb384a237e91e2997/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/aafc5b6d23acc9051731bbdb38013ff2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/aafc5b6d23acc9051731bbdb38013ff2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/854a11d7557490b40e09d988368544e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/854a11d7557490b40e09d988368544e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/e0fcc326f53fd51734d5bb74576c85f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/e0fcc326f53fd51734d5bb74576c85f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/e8b47b7f336799ef8319e4a379b656e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/e8b47b7f336799ef8319e4a379b656e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/e67371f8844c0a9db13e2c5caa38c0fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/e67371f8844c0a9db13e2c5caa38c0fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/0a0b77ed5558b82d52ab843e30175e4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/0a0b77ed5558b82d52ab843e30175e4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/a5e829615ad636ccc5b19f1296b70c67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/a5e829615ad636ccc5b19f1296b70c67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/9a335dc78c2f51b29c320abea219ad84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/9a335dc78c2f51b29c320abea219ad84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/5e7497ad6fd3384bf54c870494a1c05c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/5e7497ad6fd3384bf54c870494a1c05c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/589bf36fca90217460ab31a19c179207/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/589bf36fca90217460ab31a19c179207/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/7c16e408d464a18de6e9a03f6ef2efb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /home/pete/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/7c16e408d464a18de6e9a03f6ef2efb1/AndroidManifest.xml:20:5-44
+INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+		ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+		ADDED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pete/IntelliJIDEAProjects/RssReader/app/src/main/AndroidManifest.xml
